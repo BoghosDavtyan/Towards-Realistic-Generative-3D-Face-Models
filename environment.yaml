@@ -1,4 +1,4 @@
-name: new_torchenv
+name: 3D-Face
 channels:
   - pytorch
   - conda-forge
